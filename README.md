@@ -1,6 +1,6 @@
 ### Hi there 👋 I`m Stas, junior frontend developer!
 
-- 🔭 React
+- 🔭:white_check_mark: React
 - 🌱 JavaScript/TypeScript
 - 🤔 Html/Css
 
