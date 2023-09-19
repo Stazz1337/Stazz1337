@@ -1,4 +1,4 @@
-### Hi there 👋 I`m Stas, junior frontend developer!
+### Hi there 👋 I`m Stas, frontend developer!
 
 - :white_check_mark: React
 - :white_check_mark: JavaScript/TypeScript
