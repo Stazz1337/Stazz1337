@@ -1,4 +1,4 @@
-### Hi there 👋 I`m Stas, frontend developer! Looking for a job :mag_right:
+### Hi there 👋 I`m Stas, frontend developer!
 
 - :white_check_mark: React/Vue
 - :white_check_mark: JavaScript/TypeScript
